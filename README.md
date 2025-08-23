@@ -1,4 +1,4 @@
-<img width="1414" height="580" alt="image" src="https://github.com/user-attachments/assets/59b23983-d967-4322-b6ea-940ee5dacd3e" />**Purpose**
+
 
 This script quickly locates specific keywords such as ;
 like part names, slotType values,and other identifiers
