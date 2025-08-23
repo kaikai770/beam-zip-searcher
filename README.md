@@ -1,4 +1,4 @@
-**Purpose**
+<img width="1414" height="580" alt="image" src="https://github.com/user-attachments/assets/59b23983-d967-4322-b6ea-940ee5dacd3e" />**Purpose**
 
 This script quickly locates specific keywords such as ;
 like part names, slotType values,and other identifiers
@@ -37,3 +37,6 @@ For each hit, you get:
 - Locating missing or “orphaned” slot definitions.
 - Reverse‑engineering compatible parts for custom builds.
 - Cleaning up old mods by tracking down unused part definitions.
+
+[Ko-fi.com/sockieee](https://ko-fi.com/sockieee)
+if youd like to donate to me :]
